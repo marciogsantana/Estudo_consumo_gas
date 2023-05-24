@@ -1,13 +1,19 @@
-# Sample Hardhat Project
+# Analise consumo de gas 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Objetivo
 
-Try running some of the following tasks:
+Gravar um array pequeno e depois aumentar para 
+analisar a taxa de gas.
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+# Tecnologias utilizadas
+- Solidity
+- Hardhat
+- JS
+
+
+# Autor
+
+Márcio Gomes de Santana
+
+https://www.linkedin.com/in/marcio-gomes-de-santana-05347198/
