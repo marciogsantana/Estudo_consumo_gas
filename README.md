@@ -11,6 +11,22 @@ analisar a taxa de gas.
 - Hardhat
 - JS
 
+## Iniciar o projeto
+
+# clonar repositório
+git clone https://github.com/marciogsantana/Estudo_consumo_gas.git
+
+```bash
+
+# Na raiz do projeto
+
+# instalar dependências
+npm install
+
+# executar o teste
+
+npx hardhat test
+
 
 # Autor
 
